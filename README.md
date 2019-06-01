@@ -1,3 +1,4 @@
 # hello-world
 Classic Hello world repository
-# just a little comment I am supposed to make here
+# I am just making  a little comment that I am supposed to make here, like
+# Git is awesome. :-)
